@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Model
 {
-    class DichVu
+   public class DichVu
     {
     }
 }

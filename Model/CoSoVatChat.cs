@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Model
 {
-    class CoSoVatChat
+   public class CoSoVatChat
     {
     }
 }

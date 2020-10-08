@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Model
 {
-    class GiaPhong
+   public class GiaPhong
     {
     }
 }

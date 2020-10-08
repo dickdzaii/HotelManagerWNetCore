@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Model
 {
-    class ChiTietDatPhong
+   public class ChiTietDatPhong
     {
     }
 }
