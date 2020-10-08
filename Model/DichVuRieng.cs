@@ -6,5 +6,7 @@ namespace Model
 {
    public class DichVuRieng
     {
+        public int MaDichVu {get;set;}
+        public string TenDichVu {get;set;}
     }
 }

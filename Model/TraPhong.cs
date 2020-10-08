@@ -6,5 +6,8 @@ namespace Model
 {
    public class TraPhong
     {
+        public int MaTraPhong {get;set;}
+      public int MaDatPhong {get;set;}
+      public DateTime NgayTraPhong {get;set;}
     }
 }
